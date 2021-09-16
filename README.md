@@ -7,9 +7,8 @@
 	|            brute force gmail           |
 	|----------------------------------------|
 	|            versão finalizada           |
-  |              Por Gilmar Filho          |
+        |              Por Gilmar Filho          |
 	|                     &                  |
-  |           Guilherme Mazarotto          | 
+        |           Guilherme Mazarotto          | 
 	|----------------------------------------|
-	''')
-
+	
